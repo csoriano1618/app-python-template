@@ -1,0 +1,9 @@
+# List of source files containing translatable strings.
+[encoding: UTF-8]
+[type: gettext/glade]data/about-dialog.ui
+[type: gettext/glade]data/gtk/menus.ui
+data/org.gnome.Usage.desktop.in
+data/org.gnome.Usage.appdata.xml.in
+src/application.py
+src/window.py
+

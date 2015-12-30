@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface domain="usage">
+  <!-- interface-requires gtk+ 3.0 -->
+  <object class="GtkAboutDialog" id="about_dialog">
+    <property name="modal">True</property>
+    <property name="program-name" translatable="yes">Usage</property>
+    <property name="logo-icon-name">usage</property>
+    <property name="version">0.1</property>
+    <property name="copyright" translatable="yes">Copyright © 2015 Carlos Soriano</property>
+    <property name="comments" translatable="yes">A usage monitor.</property>
+    <property name="website">none</property>
+    <property name="website_label" translatable="yes">Visit Usage website</property>
+    <property name="license" translatable="yes">Usage is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+Usage is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Usage; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+</property>
+    <property name="authors">Maintainers:
+    Carlos Soriano &lt;csoriano@gnome.org&gt;
+    </property>
+    <property name="wrap_license">True</property>
+  </object>
+</interface>
+

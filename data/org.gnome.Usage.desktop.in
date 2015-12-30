@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Usage
+_Comment=Usage monitor for GNOME
+Exec=usage
+Icon=usage
+Terminal=false
+Type=Application
+Categories=Network;GNOME;GTK;
+Keywords=Monitor;Network;CPU;Memory;Usage;
+

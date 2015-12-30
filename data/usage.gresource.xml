@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/Usage">
+    <file>ui/window.ui</file>
+    <file>ui/about-dialog.ui</file>
+    <file>gtk/menus.ui</file>
+  </gresource>
+</gresources>

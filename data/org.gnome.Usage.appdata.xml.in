@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2015 Carlos Soriano <csoriano@gnome.org> -->
+<component type="desktop">
+  <id>org.gnome.Usage.desktop</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <!-- TRANSLATORS: the application name -->
+  <_name>Usage</_name>
+  <!-- TRANSLATORS: one-line description for the app -->
+  <_summary>Usage monitor</_summary>
+  <description>
+    <!-- TRANSLATORS: AppData description marketing paragraph -->
+    <_p>
+      Usage is intended to monitor the system resources like CPU, memory or network.
+    </_p>
+  </description>
+  <screenshots>
+  </screenshots>
+  <!--
+          Validate with `appstream-util validate *.appdata.xml`
+   Use `date -d now +%s` or `date -d 2010-01-32 +%s` to get the timestamp.
+  -->
+  <releases>
+  </releases>
+  <url type="homepage">https://wiki.gnome.org/Apps/Usage</url>
+  <url type="bugtracker">https://github.com/csoriano89/usage/issues</url>
+  <update_contact>csoriano@gnome.org</update_contact>
+</component>
+

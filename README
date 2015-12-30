@@ -1,0 +1,25 @@
+Python app template for Gtk3
+============================
+This is an app template using Gtk3 and python, with the common tools
+you would use, like gresources, icons, desktop integration, gsettings,
+logging, debugging, command line management, editor config, gitignore,
+translation support, etc.
+
+All set in the simplest way possible!
+
+Compiling and installing locally
+================================
+Go to the project.
+
+Then in the terminal:
+mkdir install; ./autogen.sh --prefix=`pwd`/install
+make
+make install
+
+Running
+=======
+Go to the project.
+
+In the terminal:
+python3.4 install/usage
+
